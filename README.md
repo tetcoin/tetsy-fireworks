@@ -1,5 +1,5 @@
 # Fireworks
-### Parity cluster configuration tools
+### Tetsy cluster configuration tools
 
 Work in progress. Documentation coming.
 
